@@ -20,11 +20,3 @@ hello_operator = PythonOperator(
     task_id='hello_task', python_callable=print_hello, dag=dag)
 
 hello_operator
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Do
